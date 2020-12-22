@@ -1,0 +1,14 @@
+{
+  "name": "hyper63-search-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@hyper63/adapter-minisearch": "^1.0.5",
+    "@hyper63/app-express": "^1.0.4",
+    "@hyper63/core": "^1.0.14"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

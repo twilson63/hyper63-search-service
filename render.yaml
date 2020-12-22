@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: hyper63-minisearch
+    env: node
+    buildCommand: yarn
+    startCommand: yarn start 
